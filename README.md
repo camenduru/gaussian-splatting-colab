@@ -11,7 +11,10 @@
 ## Main Repo
 https://github.com/graphdeco-inria/gaussian-splatting
 
-## Paper
+## Page
+https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/
 
+## Paper
+https://arxiv.org/abs/2308.04079
 
 ## Output
