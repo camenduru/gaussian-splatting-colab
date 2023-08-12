@@ -18,3 +18,4 @@ https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/
 https://arxiv.org/abs/2308.04079
 
 ## Output
+https://github.com/camenduru/gaussian-splatting-colab/assets/54370274/e6d1674f-1ba5-4f46-aa30-be6e54dea45e
