@@ -26,4 +26,6 @@ https://arxiv.org/abs/2308.04079
 https://github.com/antimatter15/splat thanks to @antimatter15 ❤
 
 ## Output
+https://github.com/camenduru/gaussian-splatting-colab/assets/54370274/003ee472-6c1d-44e0-990a-6c795effe46f
+
 https://github.com/camenduru/gaussian-splatting-colab/assets/54370274/e6d1674f-1ba5-4f46-aa30-be6e54dea45e
